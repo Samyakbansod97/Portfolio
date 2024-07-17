@@ -53,7 +53,7 @@ The dataset was provided by Rishabh Mishra. Grateful for his guidance throughout
 
 ## Final Dashboard Snippet
 
-![Vrinda Dashboard]( Vrinda_Store_Data.png )
+![Vrinda Dashboard](Vrinda_Store_Data.png)
 
 ## Insights
 
